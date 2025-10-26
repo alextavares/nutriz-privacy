@@ -1,190 +1,189 @@
-# Política de Privacidade - NUTRIZ
+# Privacy Policy - NUTRIZ
 
-**Última atualização**: 24 de outubro de 2025
+**Last updated**: October 24, 2025
 
-## 1. Introdução
+## 1. Introduction
 
-Bem-vindo ao NUTRIZ ("nós", "nosso" ou "app"). Respeitamos sua privacidade e estamos comprometidos em proteger seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações quando você usa nosso aplicativo.
+Welcome to NUTRIZ ("we", "our" or "app"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store and protect your information when you use our application.
 
-## 2. Informações que Coletamos
+## 2. Information We Collect
 
-### 2.1 Informações Fornecidas por Você
+### 2.1 Information You Provide
 
-- **Dados de Perfil**: Nome, email, peso, altura, idade, objetivos de saúde
-- **Dados de Nutrição**: Refeições registradas, calorias, macronutrientes
-- **Dados de Jejum**: Horários de jejum, duração, métodos preferidos
-- **Dados de Exercícios**: Atividades físicas, duração, intensidade
-- **Fotos de Alimentos**: Imagens capturadas para detecção com IA (processadas localmente)
-- **Metas e Objetivos**: Metas de peso, calorias, macronutrientes
+- **Profile Data**: Name, email, weight, height, age, health goals
+- **Nutrition Data**: Logged meals, calories, macronutrients
+- **Fasting Data**: Fasting schedules, duration, preferred methods
+- **Exercise Data**: Physical activities, duration, intensity
+- **Food Photos**: Images captured for AI detection (processed locally)
+- **Goals and Objectives**: Weight goals, calories, macronutrients
 
-### 2.2 Informações Coletadas Automaticamente
+### 2.2 Automatically Collected Information
 
-- **Dados de Uso**: Funcionalidades utilizadas, frequência de uso, tempo no app
-- **Dados do Dispositivo**: Modelo, sistema operacional, identificador único
-- **Dados de Performance**: Logs de erros, crashes, performance do app
-- **Preferências**: Idioma, configurações de notificações, tema
+- **Usage Data**: Features used, frequency of use, time in app
+- **Device Data**: Model, operating system, unique identifier
+- **Performance Data**: Error logs, crashes, app performance
+- **Preferences**: Language, notification settings, theme
 
-### 2.3 Informações de Terceiros
+### 2.3 Third-Party Information
 
-- **RevenueCat**: Dados de assinatura PRO (status, renovações)
-- **Câmera**: Acesso para captura de fotos de alimentos (apenas quando solicitado)
+- **RevenueCat**: PRO subscription data (status, renewals)
+- **Camera**: Access for food photo capture (only when requested)
 
-## 3. Como Usamos Suas Informações
+## 3. How We Use Your Information
 
-Usamos suas informações para:
+We use your information to:
 
-- ✅ Fornecer e melhorar o serviço do NUTRIZ
-- ✅ Calcular e rastrear seu progresso nutricional
-- ✅ Gerar recomendações personalizadas
-- ✅ Processar detecção de alimentos com IA
-- ✅ Enviar notificações de jejum e hidratação
-- ✅ Gerenciar sua assinatura PRO
-- ✅ Analisar e melhorar a performance do app
-- ✅ Fornecer suporte ao cliente
-- ✅ Prevenir fraudes e abusos
+- ✅ Provide and improve NUTRIZ services
+- ✅ Calculate and track your nutritional progress
+- ✅ Generate personalized recommendations
+- ✅ Process AI food detection
+- ✅ Send fasting and hydration notifications
+- ✅ Manage your PRO subscription
+- ✅ Analyze and improve app performance
+- ✅ Provide customer support
+- ✅ Prevent fraud and abuse
 
-## 4. Armazenamento de Dados
+## 4. Data Storage
 
-### 4.1 Onde Armazenamos
+### 4.1 Where We Store
 
-- **Dados Locais**: A maioria dos dados é armazenada localmente no seu dispositivo
-- **Dados em Nuvem**: Apenas dados de assinatura (RevenueCat) e preferências de sincronização
+- **Local Data**: Most data is stored locally on your device
+- **Cloud Data**: Only subscription data (RevenueCat) and sync preferences
 
-### 4.2 Por Quanto Tempo
+### 4.2 How Long
 
-- **Dados do App**: Mantidos até você desinstalar o app ou deletar sua conta
-- **Dados de Assinatura**: Mantidos enquanto sua assinatura estiver ativa
-- **Logs de Erro**: Mantidos por até 90 dias
+- **App Data**: Kept until you uninstall the app or delete your account
+- **Subscription Data**: Kept while your subscription is active
+- **Error Logs**: Kept for up to 90 days
 
-## 5. Compartilhamento de Informações
+## 5. Information Sharing
 
-**NÃO vendemos seus dados pessoais.**
+**WE DO NOT sell your personal data.**
 
-Podemos compartilhar informações apenas com:
+We may share information only with:
 
-- **RevenueCat**: Para gerenciar assinaturas PRO
-- **Provedores de Serviços**: Hospedagem, analytics (dados anonimizados)
-- **Requisitos Legais**: Quando exigido por lei ou para proteger direitos
+- **RevenueCat**: To manage PRO subscriptions
+- **Service Providers**: Hosting, analytics (anonymized data)
+- **Legal Requirements**: When required by law or to protect rights
 
-## 6. Segurança
+## 6. Security
 
-Implementamos medidas de segurança para proteger seus dados:
+We implement security measures to protect your data:
 
-- 🔒 Criptografia de dados sensíveis
-- 🔒 Armazenamento local seguro
-- 🔒 Acesso restrito a dados pessoais
-- 🔒 Monitoramento de segurança contínuo
+- 🔒 Encryption of sensitive data
+- 🔒 Secure local storage
+- 🔒 Restricted access to personal data
+- 🔒 Continuous security monitoring
 
-## 7. Seus Direitos
+## 7. Your Rights
 
-Você tem direito a:
+You have the right to:
 
-- ✅ **Acessar** seus dados pessoais
-- ✅ **Corrigir** informações incorretas
-- ✅ **Deletar** sua conta e dados
-- ✅ **Exportar** seus dados (CSV/JSON)
-- ✅ **Revogar** permissões (câmera, notificações)
-- ✅ **Cancelar** assinatura a qualquer momento
+- ✅ **Access** your personal data
+- ✅ **Correct** incorrect information
+- ✅ **Delete** your account and data
+- ✅ **Export** your data (CSV/JSON)
+- ✅ **Revoke** permissions (camera, notifications)
+- ✅ **Cancel** subscription at any time
 
-### Como Exercer Seus Direitos
+### How to Exercise Your Rights
 
-- **Deletar dados**: Configurações > Perfil > Limpar dados
-- **Exportar dados**: Configurações > Perfil > Exportar dados
-- **Deletar conta**: Entre em contato em [SEU_EMAIL]
-- **Cancelar PRO**: Google Play Store > Assinaturas
+- **Delete data**: Settings > Profile > Clear data
+- **Export data**: Settings > Profile > Export data
+- **Delete account**: Contact us at contact@nutriz.app
+- **Cancel PRO**: Google Play Store > Subscriptions
 
-## 8. Dados de Menores
+## 8. Children's Data
 
-NUTRIZ **não é destinado a menores de 13 anos**. Não coletamos intencionalmente dados de crianças. Se você é pai/mãe e acredita que seu filho forneceu dados, entre em contato conosco.
+NUTRIZ **is not intended for children under 13 years old**. We do not intentionally collect data from children. If you are a parent and believe your child has provided data, please contact us.
 
-## 9. Cookies e Tecnologias Similares
+## 9. Cookies and Similar Technologies
 
-Não usamos cookies. Usamos:
+We do not use cookies. We use:
 
-- **SharedPreferences**: Para armazenar preferências localmente
-- **Analytics**: Dados anonimizados de uso do app (opcional)
+- **SharedPreferences**: To store preferences locally
+- **Analytics**: Anonymized app usage data (optional)
 
-## 10. Transferências Internacionais
+## 10. International Transfers
 
-Seus dados são processados e armazenados primariamente no Brasil. Dados de assinatura (RevenueCat) podem ser transferidos para servidores nos EUA, sob proteções adequadas.
+Your data is primarily processed and stored in Brazil. Subscription data (RevenueCat) may be transferred to servers in the USA, under appropriate protections.
 
-## 11. Alterações nesta Política
+## 11. Changes to This Policy
 
-Podemos atualizar esta política periodicamente. Notificaremos você sobre mudanças significativas através do app. A data da "Última atualização" no topo indica a versão mais recente.
+We may update this policy periodically. We will notify you of significant changes through the app. The "Last updated" date at the top indicates the most recent version.
 
-## 12. Contato
+## 12. Contact
 
-Para dúvidas sobre esta Política de Privacidade:
+For questions about this Privacy Policy:
 
-- **Email**: [SEU_EMAIL_DE_CONTATO]
-- **Website**: [SEU_WEBSITE]
-- **Endereço**: [SEU_ENDEREÇO (se aplicável)]
+- **Email**: contact@nutriz.app
+- **Website**: https://alextavares.github.io/nutriz-privacy
 
-## 13. Conformidade Legal
+## 13. Legal Compliance
 
-Esta política está em conformidade com:
+This policy complies with:
 
-- **LGPD** (Lei Geral de Proteção de Dados Pessoais - Brasil)
-- **GDPR** (General Data Protection Regulation - União Europeia)
+- **LGPD** (General Data Protection Law - Brazil)
+- **GDPR** (General Data Protection Regulation - European Union)
 - **Google Play Developer Policy**
 
-## 14. Detalhes Específicos do App
+## 14. App-Specific Details
 
-### 14.1 Detecção de Alimentos com IA
+### 14.1 AI Food Detection
 
-- Fotos são processadas **localmente** no seu dispositivo
-- Não enviamos suas fotos para servidores externos
-- Você pode deletar fotos a qualquer momento
-- Acesso à câmera só ocorre quando você autoriza
+- Photos are processed **locally** on your device
+- We do not send your photos to external servers
+- You can delete photos at any time
+- Camera access only occurs when you authorize
 
-### 14.2 Notificações
+### 14.2 Notifications
 
-- Enviamos notificações de:
-  - Lembretes de jejum
-  - Lembretes de hidratação
-  - Conquistas desbloqueadas
-- Você pode desativar notificações a qualquer momento em Configurações
+- We send notifications for:
+  - Fasting reminders
+  - Hydration reminders
+  - Unlocked achievements
+- You can disable notifications at any time in Settings
 
-### 14.3 Gamificação
+### 14.3 Gamification
 
-- Badges e streaks são calculados localmente
-- Não compartilhamos seu progresso com terceiros
-- Dados de gamificação são privados por padrão
+- Badges and streaks are calculated locally
+- We do not share your progress with third parties
+- Gamification data is private by default
 
-### 14.4 Assinatura PRO
+### 14.4 PRO Subscription
 
-- Processada pela Google Play Store e RevenueCat
-- Dados de pagamento nunca passam pelo NUTRIZ
-- Políticas de privacidade do Google Play e RevenueCat se aplicam
-
----
-
-## Perguntas Frequentes
-
-**P: Vocês têm acesso às minhas fotos de alimentos?**
-R: Não. Fotos são processadas localmente no seu dispositivo e não são enviadas para nossos servidores.
-
-**P: Meus dados são compartilhados com anunciantes?**
-R: Não. Não vendemos ou compartilhamos seus dados com anunciantes.
-
-**P: Posso usar o app sem criar uma conta?**
-R: Sim! Todos os dados são armazenados localmente. Conta é opcional para sincronização.
-
-**P: Como faço para deletar todos os meus dados?**
-R: Vá em Configurações > Perfil > Limpar todos os dados. Ou desinstale o app.
-
-**P: Meus dados são sincronizados entre dispositivos?**
-R: Atualmente não. Todos os dados são armazenados localmente no dispositivo.
+- Processed by Google Play Store and RevenueCat
+- Payment data never passes through NUTRIZ
+- Google Play and RevenueCat privacy policies apply
 
 ---
 
-**Aceitar esta Política de Privacidade é necessário para usar o NUTRIZ.**
+## Frequently Asked Questions
 
-Ao usar nosso app, você concorda com os termos desta Política de Privacidade.
+**Q: Do you have access to my food photos?**
+A: No. Photos are processed locally on your device and are not sent to our servers.
+
+**Q: Is my data shared with advertisers?**
+A: No. We do not sell or share your data with advertisers.
+
+**Q: Can I use the app without creating an account?**
+A: Yes! All data is stored locally. Account is optional for synchronization.
+
+**Q: How do I delete all my data?**
+A: Go to Settings > Profile > Clear all data. Or uninstall the app.
+
+**Q: Is my data synchronized between devices?**
+A: Currently no. All data is stored locally on the device.
 
 ---
 
-**Documento gerado em**: 2025-10-24
-**Versão**: 1.0
-**Idioma**: Português (Brasil)
-**App**: NUTRIZ (anteriormente NutriTracker)
+**Accepting this Privacy Policy is required to use NUTRIZ.**
+
+By using our app, you agree to the terms of this Privacy Policy.
+
+---
+
+**Document generated**: 2025-10-24
+**Version**: 1.0
+**Language**: English
+**App**: NUTRIZ (formerly NutriTracker)
